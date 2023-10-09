@@ -8,7 +8,7 @@ const  ExpenseItem=(props) => {
 
  
   const clickHandler =()=>{
-    setTitle('100$'); 
+    setTitle(''); 
     console.log(title);
   }
   return (
